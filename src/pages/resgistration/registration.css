@@ -1,0 +1,19 @@
+.root {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-wrapper {
+    height: 70vh;
+    width: 35vw;
+    border: 1px solid black;
+    text-align: center;
+    padding: 2rem;
+}
+
+.form-title {
+    font-family: 'Noto Sans';
+}
